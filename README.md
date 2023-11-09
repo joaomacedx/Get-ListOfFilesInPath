@@ -1,6 +1,6 @@
 # Get-ListOfFilesInPath | [Based on files extension] 
 <div align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/Generate-ListOf-Files-InPath?style=flat" >
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/Get-ListOfFilesInPath?style=flat" >
   <img alt="Made by João Macêdo" src="https://img.shields.io/badge/made%20by-João%20Macêdo-blue">
  </div>
 <br>
