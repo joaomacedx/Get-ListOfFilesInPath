@@ -1,4 +1,4 @@
-# Generate-ListOf-Files-InPath | [Based on files extension] 
+# Get-ListOfFilesInPath | [Based on files extension] 
 <div align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/Generate-ListOf-Files-InPath?style=flat" >
   <img alt="Made by João Macêdo" src="https://img.shields.io/badge/made%20by-João%20Macêdo-blue">
@@ -42,7 +42,7 @@ To use this solution, follow these steps:
 
 5. Execute the Main.ps1 script:
     ``` powershell
-    PS Disk:\Generate.ListOf.Files.InPath.BasedOn.Extension> .\Main.ps1
+    PS Disk:\Get-ListOfFilesInPath> .\Main.ps1
    ```
 6. Once the search is complete, a CSV file containing the list of files will be generated in the project directory.
    
