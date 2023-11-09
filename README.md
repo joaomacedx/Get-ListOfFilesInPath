@@ -9,6 +9,11 @@
 
 This repository provides an efficient and versatile PowerShell solution for simplifying the task of searching for and listing files based on a specific extension within a directory and its subdirectories. With the goal of automating and streamlining this process with ease, this project was designed to save time and effort.
 
+## Author
+
+- João Gabriel dos Reis Hermida Macêdo
+- E-mail: joaomacedx@gmail.com
+
 ## Features
 
 - **Comprehensive Recursion:** The solution is designed to recursively traverse a main directory and all its subdirectories, ensuring that no relevant files are left out.
